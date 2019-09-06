@@ -1,0 +1,20 @@
+//INFO
+
+
+There can appear some problems assiociated with 'apis' key (cuz I have limited usage of that API);
+
+It's easy, to create an accout on website food2fork.com, and get free key for some time
+
+Then, there is 2 places, to replace my old API key ---> in files Search.js, and base.js
+
+////////////////////////////////////////////////
+
+  That project is on MIT license. Feel free, to upgrade that, add new features, and so on, and so forth.
+
+///////////////////////////////////////////////
+
+As I said, every dependencies, scripts, etc. are in package.json file(I'm sure, you know that). 
+node_modules is required to start 'website'
+
+
+
